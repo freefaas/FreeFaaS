@@ -1,5 +1,8 @@
 # AWS Lambda Assets will sync to here
-aws-assets/
+assets/
+
+# pycharm IDE temp file
+.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
