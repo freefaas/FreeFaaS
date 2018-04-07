@@ -48,7 +48,7 @@ def fetch_lambda(name, target_folder):
 
 # the output folder will be the git local working space
 # delete the folder manually if necessary
-output_folder = os.path.abspath(os.path.join('assets/aws_lambda'))
+output_folder = os.path.abspath(os.path.join('assets/aws/lambda'))
 print(output_folder)
 
 client = boto3.client('lambda')
