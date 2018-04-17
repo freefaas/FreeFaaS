@@ -1,4 +1,4 @@
-# FreeFaaS-Sync ![build status](https://travis-ci.org/ShineSmile/FreeFaaS-Sync.svg?branch=master)
+# FreeFaaS-Sync ![build status](https://travis-ci.org/freefaas/FreeFaaS.svg?branch=master)
 
 FreeFaaS-Sync help you to sync public cloud function app assets with little script. 
 
