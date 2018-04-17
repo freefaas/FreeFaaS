@@ -1,3 +1,6 @@
+# visual studio code
+.vscode/
+
 # AWS Lambda Assets will sync to here
 assets/
 
